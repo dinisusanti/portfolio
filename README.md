@@ -1,5 +1,8 @@
 # Data Scientist
-Technical skills: python, R, Excel, VBA in Excel, SQL, PowerBI
+**Technical skills**
+
+Tools: python, R, Excel, VBA in Excel, SQL, PowerBI
+Certification: IBM Machine Learning Professional, Microsoft Data Analysis with Excel, IBM Excel Basics for Data Analysis, IBM Databases and SQL for Data Science with Python, DQLab Data Science Using R.
 
 ## Education
 - M.Sc., Management and Financial Mathematics | Universiti Kebangsaan Malaysia (_October 2022_)

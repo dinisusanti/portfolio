@@ -25,9 +25,11 @@ This is a project in Stochastic Processes that was lectured by Dr. Munira Ismail
 These projects were submitted as a requirement to complete IBM Machine Learning courses.
 
 **Loan Approval Analysis**
+
 The objective of this project is to predict the approval of future loan application which is beneficial for financial institutions. Three models were developed for this purpose; Decision Tree, Random Forest, and Support Vector Classifier (SVC). To determine which model suitable for the purpose is by producing and comparing metric error for each model. 
 
 **Stock Market Forecasting**
+
 The objective of this project is to find the best tool for forecasting the future value or trend of stock price using time series analysis methods. For that purpose, addictive and multiplicative Holt-Winters, ARIMA, and SARIMA models were developed. Then the best forecasting tool was determined by comparing MSE value among the four models.
 
 [Project](https://github.com/dinisusanti/IBM-MachineLearningProjects/tree/main)

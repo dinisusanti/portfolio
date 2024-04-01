@@ -32,11 +32,19 @@ These projects were submitted as a requirement to complete IBM Machine Learning 
 
 The objective of this project is to predict the approval of future loan application which is beneficial for financial institutions. Three models were developed for this purpose; Decision Tree, Random Forest, and Support Vector Classifier (SVC). To determine which model suitable for the purpose is by producing and comparing metric error for each model. 
 
-**Stock Market Forecasting**
+**Banknote Authentication**
 
-The objective of this project is to find the best tool for forecasting the future value or trend of stock price using time series analysis methods. For that purpose, addictive and multiplicative Holt-Winters, ARIMA, and SARIMA models were developed. Then the best forecasting tool was determined by comparing MSE value among the four models.
+The objective of this project is to verify whether a banknote is genuine or forged using unsupervised machine learning algorithms, especially clustering models. The models developed for this purpose are KMeans, DBScan, and agglomerative. 
 
-[Project](https://github.com/dinisusanti/IBM-MachineLearningProjects/tree/main)
+**Stock Market Forecasting (Time Series)**
+
+The objective of this project is to find the best tool for forecasting the future value or trend of stock price using time series analysis method. For that purpose, addictive and multiplicative Holt-Winters, ARIMA, and SARIMA models were developed. Then, the best forecasting tool was determined by comparing MSE value among the four models.
+
+**Stock Market Forecasting (Deep Learning)**
+
+The objective of this project is to find the best deep learning models that able to be used to forecast stock market' trend. Three models are developed for this purpose; RNN, LSTM, and GRU. The best model to represent data is determined by RMSE value.
+
+[Projects](https://github.com/dinisusanti/IBM-MachineLearningProjects/tree/main)
 
 ## Working Experience
 Freelance Tutor
